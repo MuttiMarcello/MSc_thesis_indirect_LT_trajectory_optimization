@@ -1,0 +1,9 @@
+To execute either 2BP_VP or 2BP_CP cases optimization processes:
+
+1. Open 'TO_OCP.m', select target asteroid (line 24) with appropriate identification codes (lines 30-34)
+2. Execute 'TO_OCP.m', then save 'TO_prob' variable locally as 'TO_results.mat'
+3. Open 'FO_OCP.m', select same target asteroid (line 25) with appropriate identification codes (lines 31-35)
+4. Execute 'FO_OCP.m', then save 'FO_prob' variable locally as 'FO_results.mat'
+5. Execute 'PCP_Disp.m' to visualize mission porkchop plots
+
+To execute CR3BP_CP case optimization process execute 'CR3BP_OCP.m'
