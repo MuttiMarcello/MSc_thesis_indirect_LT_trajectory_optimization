@@ -1,0 +1,6 @@
+- 'variable_SEP_parameters_2014YD_asteroid_PCP.png' - Mission analysis porkchop plot for sample asteroid 2014YD, with low-thrust Solar Electric Propulsion
+- 'variable_SEP_parameters_2014YD_asteroid_TO_solution_sample_C.png' - Low-thrust time-optimal transfer to asteroid 2014YD, sample C with reference to 'variable_SEP_parameters_2014YD_asteroid_PCP.png'
+- 'variable_SEP_parameters_2014YD_asteroid_FO_solution_sample_D.png' - Low-thrust fuel-optimal transfer to asteroid 2014YD, sample D with reference to 'variable_SEP_parameters_2014YD_asteroid_PCP.png'
+- 'constant_prop_parameters_2014YD_asteroid_scalar_scaling_FO_testing.png' - Record of minimum scalar scaling parameters for minimum-ToF fuel-optimal solutions (2014YD sample) obtained through costate path scaling. Confirmed lower bound of 1*gamma_L and swithing function maximum value < 0.
+- 'constant_prop_parameters_2014YD_asteroid_scalar_scaling_EO_testing.png' - Record of minimum scalar scaling parameters for minimum-ToF energy-optimal solutions (2014YD sample) obtained through costate path scaling. Confirmed lower bound of 2*gamma_L and swithing function maximum value < -1.
+- 'constant_prop_parameters_2014YD_asteroid_switching_fun_comparison.png' - Comparison of swithing function profiles of sample solutions obtained through costate path scaling. Confirmed continuous maximum thrust across all solutions.
