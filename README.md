@@ -18,7 +18,7 @@ The work is organized into three main case studies:
 
 Key results:
 
-* Achieved convergence of time-, energy- and fuel-optimal trajectories with final heliocentric errors of > 1e-5 km, > 1e-11 km/s. Results are validated through Hamiltonian testing and comparison with DART Group proprietary trajectory optimization tools.
+* Achieved convergence of time-, energy- and fuel-optimal trajectories with final heliocentric errors of < 1e-5 km, < 1e-11 km/s. Results are validated through Hamiltonian testing and comparison with DART Group proprietary trajectory optimization tools.
 * The continuation scheme reliably characterizes the solution space. Energy-to-fuel optimal continuation succeeds in more than 95% of cases. In the remaining instances, the continuation parameter epsilon is ~ 0, yielding a negligible error.
 * Proved that under specified analytical conditions, optimal costate paths of energy- and fuel-optimal solutions with minimum time-of-flight can be computed through scalar scaling from the associated time-optimal costate path solution.
 
